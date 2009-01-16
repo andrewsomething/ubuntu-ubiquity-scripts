@@ -5,7 +5,7 @@
 
 CmdUtils.CreateCommand({ 
   name: "lp-packages",
-  icon: "http://www.ubuntu.com/files/favicon-ubuntu.ico",
+  icon: "https://launchpadlibrarian.net/16114928/gem-sm.png",
 /* homepage: "http://packages.qa.debian.org/common/index.html", */
   author: { name: "Andrew Starr-Bochicchio", email: "andrewsomething@ubuntu.com"},
   license: "MIT",
