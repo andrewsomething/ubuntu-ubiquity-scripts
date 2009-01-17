@@ -17,7 +17,7 @@ CmdUtils.CreateCommand({
     pblock.innerHTML = CmdUtils.renderTemplate(template, {"name": team.text});
   },
   execute: function(team) {
-    var url = "https://edge.launchpad.net/people/?name=" + team.text;
+    var url = "https://launchpad.net/people/?name=" + team.text;
     Utils.openUrlInBrowser(url);
   }
 });
