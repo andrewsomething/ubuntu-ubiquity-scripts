@@ -1,3 +1,7 @@
 A collection of ubiquity scripts I'm working on.
 
 This is mostly being done as a git learning project for myself.
+
+The Bazaar branch on Launchpad is the real location:
+
+bzr branch lp:~andrewsomething/+junk/ubiquity-commands
